@@ -1,0 +1,1911 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"strc",
+				"strcpy"
+			],
+			[
+				"strto",
+				"strtolower"
+			],
+			[
+				"t",
+				"thumbnails"
+			],
+			[
+				"lay",
+				"layout"
+			],
+			[
+				"id_",
+				"id_layout"
+			],
+			[
+				"l",
+				"layout"
+			],
+			[
+				"Zen",
+				"Zend_Auth"
+			],
+			[
+				"Zend_",
+				"Zend_Auth"
+			],
+			[
+				"_form",
+				"_formLayout"
+			],
+			[
+				"sub",
+				"submit"
+			],
+			[
+				"nome",
+				"nome_field"
+			],
+			[
+				"fel",
+				"field"
+			],
+			[
+				"reset",
+				"resetUploader"
+			],
+			[
+				"logo",
+				"logo_preview"
+			],
+			[
+				"plu",
+				"pluploadQueue"
+			],
+			[
+				"uplo",
+				"uploader_logo"
+			],
+			[
+				"upl",
+				"uploader_logo"
+			],
+			[
+				"ul",
+				"uploader_logo"
+			],
+			[
+				"files",
+				"files  (argument)"
+			],
+			[
+				"impo",
+				"important"
+			],
+			[
+				"logo_",
+				"logo_atual"
+			],
+			[
+				"image",
+				"image_paragraph"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"__",
+				"__METHOD__"
+			],
+			[
+				"new",
+				"new_logo"
+			],
+			[
+				"pluplo",
+				"plupload_logo"
+			],
+			[
+				"salva",
+				"salvarLogoAction"
+			],
+			[
+				"base",
+				"baseURL"
+			],
+			[
+				"plupl",
+				"plupload_config"
+			],
+			[
+				"Zend_Sesion",
+				"Zend_Session_Namespace  (class)"
+			],
+			[
+				"conf",
+				"configs"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"mesa",
+				"messages"
+			],
+			[
+				"set",
+				"setConfigs"
+			],
+			[
+				"sal",
+				"salvarAction"
+			],
+			[
+				"getDe",
+				"getDecorators  (function)"
+			],
+			[
+				"get",
+				"getDisplayGroup  (function)"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"cms",
+				"cms_config"
+			],
+			[
+				"messa",
+				"message  (variable)"
+			],
+			[
+				"mess",
+				"messages"
+			],
+			[
+				"getError",
+				"getErrorMessages  (function)"
+			],
+			[
+				"confi",
+				"configurações"
+			],
+			[
+				"thro",
+				"throw	Throw Exception"
+			],
+			[
+				"conte",
+				"context"
+			],
+			[
+				"lo",
+				"location"
+			],
+			[
+				"P",
+				"PUBLIC_PATH"
+			],
+			[
+				"get_ca",
+				"get_class_methods"
+			],
+			[
+				"Zend_File_Tran",
+				"Zend_File_Transfer_Adapter_Http  (class)"
+			],
+			[
+				"Model_",
+				"Model_Cms"
+			],
+			[
+				"App",
+				"Application_Form_Admissao  (class)"
+			],
+			[
+				"Zend_Form_Element_Te",
+				"Zend_Form_Element_Textarea  (class)"
+			],
+			[
+				"active",
+				"activeTab"
+			],
+			[
+				"_co",
+				"_connection  (variable)"
+			],
+			[
+				"_setup",
+				"_setupMetadata"
+			],
+			[
+				"setError",
+				"setErrorMessages  (function)"
+			],
+			[
+				"com",
+				"compare  (function)"
+			],
+			[
+				"Aplicacao",
+				"Aplicacao_ActionHelper_Crypta  (class)"
+			],
+			[
+				"dadosFor",
+				"dadosFormulario"
+			],
+			[
+				"res",
+				"result  (variable)"
+			],
+			[
+				"dados",
+				"dadosFormulario"
+			],
+			[
+				"getIden",
+				"getIdentity  (function)"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"folhas",
+				"folhasTable"
+			],
+			[
+				"require",
+				"required"
+			],
+			[
+				"form",
+				"formOsManual"
+			],
+			[
+				"ME",
+				"message"
+			],
+			[
+				"thr",
+				"throw	Throw Exception"
+			],
+			[
+				"focus",
+				"focusFirstField"
+			],
+			[
+				"validation",
+				"validationEngine"
+			],
+			[
+				"folha",
+				"folhasTable"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"VAR",
+				"var_dump"
+			],
+			[
+				"id_usuario",
+				"id_usuario_atual"
+			],
+			[
+				"throw",
+				"throw"
+			],
+			[
+				"resu",
+				"results"
+			],
+			[
+				"espec",
+				"especie_calculo"
+			],
+			[
+				"espe",
+				"especie_calculo"
+			],
+			[
+				"clea",
+				"clean_data"
+			],
+			[
+				"setA",
+				"setAction"
+			],
+			[
+				"data",
+				"dataTable"
+			],
+			[
+				"di",
+				"dialogclose"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"fn",
+				"fnGetNodes"
+			],
+			[
+				"dataT",
+				"dataTable"
+			],
+			[
+				"elements",
+				"elements_func"
+			],
+			[
+				"sel",
+				"self"
+			],
+			[
+				"elem",
+				"elements_func"
+			],
+			[
+				"fun",
+				"func"
+			],
+			[
+				"ele",
+				"elements_func"
+			],
+			[
+				"inner",
+				"innerWidth  (variable)"
+			],
+			[
+				"getFolhas",
+				"getFolhasByOs"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"Zend",
+				"Zend_Form_Element_Select"
+			],
+			[
+				"el",
+				"elements_func"
+			],
+			[
+				"status",
+				"statusFolhas"
+			],
+			[
+				"partial",
+				"partials/folhas/list"
+			],
+			[
+				"pat",
+				"parent"
+			],
+			[
+				"par",
+				"partials/folhas/list"
+			],
+			[
+				"id",
+				"id_funcionario"
+			],
+			[
+				"resul",
+				"result"
+			],
+			[
+				"digi",
+				"digitacao_folha"
+			],
+			[
+				"getId",
+				"getIdEmpresa"
+			],
+			[
+				"view",
+				"viewFolhas"
+			],
+			[
+				"sele",
+				"select"
+			],
+			[
+				"selec",
+				"select"
+			],
+			[
+				"MOdel",
+				"Model_Atividades"
+			],
+			[
+				"cle",
+				"cleanRequest"
+			],
+			[
+				"dataTa",
+				"dataTableConfig"
+			],
+			[
+				"para",
+				"params"
+			],
+			[
+				"pr",
+				"protected"
+			],
+			[
+				"no",
+				"notificacoes"
+			],
+			[
+				"fetc",
+				"fetchAll"
+			],
+			[
+				"id_us",
+				"id_usuario"
+			],
+			[
+				"send",
+				"sendNotificacoesEmail"
+			],
+			[
+				"noti",
+				"notificacoes"
+			],
+			[
+				"getID",
+				"getIdEmpresa"
+			],
+			[
+				"mb_s",
+				"mb_strtoupper"
+			],
+			[
+				"notifi",
+				"notificacoes"
+			],
+			[
+				"func",
+				"func_ferias_pend"
+			],
+			[
+				"is_A",
+				"is_array"
+			],
+			[
+				"exep",
+				"Exception"
+			],
+			[
+				"fina",
+				"finalizarSubAtividadesByOs"
+			],
+			[
+				"ModeOs",
+				"Model_OsAtividades"
+			],
+			[
+				"os",
+				"os_atividades"
+			],
+			[
+				"emp",
+				"empty"
+			],
+			[
+				"finalizar",
+				"finalizarSubAtividadesByOs"
+			],
+			[
+				"fet",
+				"fetchAll"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "c/100_caracteres.c",
+			"settings":
+			{
+				"buffer_size": 6369,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ssc",
+				"Set Syntax: C"
+			],
+			[
+				"ssphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"upd",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"PACK",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"SSHASL",
+				"Set Syntax: Haskell"
+			],
+			[
+				"grade",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"pac",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"ssjav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ssjson",
+				"Set Syntax: JSON"
+			],
+			[
+				"php set",
+				"PHP: Generate Getters and Setters"
+			],
+			[
+				"get",
+				"Snippet: Create getter and setter methods"
+			],
+			[
+				"get set",
+				"Snippet: Create getter and setter methods"
+			],
+			[
+				"PHP: Generate",
+				"PHP: Generate Getters and Setters"
+			],
+			[
+				"setin",
+				"Preferences: Settings - Default"
+			],
+			[
+				"setu",
+				"Preferences: Settings - User"
+			],
+			[
+				"ssphg",
+				"Trailing Spaces: Toggle Trailing Spaces Highlighting"
+			],
+			[
+				"sssql",
+				"Set Syntax: SQL"
+			],
+			[
+				"ssjso",
+				"Set Syntax: JSON"
+			],
+			[
+				"ssini",
+				"Set Syntax: INI"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ssql",
+				"Set Syntax: SQL"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"snippet gets",
+				"Snippet: Create getter and setter methods"
+			],
+			[
+				"Snippet: get",
+				"Snippet: Create getter and setter methods"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"ssph",
+				"Set Syntax: PHP"
+			],
+			[
+				"Ssphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Packa",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Ips",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"terminal",
+				"Preferences: Terminal Settings – Default"
+			],
+			[
+				"package control",
+				"Package Control: List Packages"
+			],
+			[
+				"pacha",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"lorem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"colo",
+				"Color picker"
+			],
+			[
+				"li",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"In",
+				"Package Control: Install Package"
+			],
+			[
+				"Apac",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"INst",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control",
+				"Package Control: Install Package"
+			],
+			[
+				"fun",
+				"Snippet: Function Signature"
+			],
+			[
+				"inter",
+				"Snippet: Interface"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 473.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/reinaldo/Desktop/Arquivo/uepg/Algoritmos e Programação/aula_31_07_2013_strings/c/100_caracteres.c",
+		"/home/reinaldo/uepg/Algoritmos e Programação/aula_31_07_2013_strings/c/100_caracteres.c",
+		"/home/reinaldo/uepg/Algoritmos e Programação/aula_31_07_2013_strings/c/strings_strlen_strcpy_strcomp.c",
+		"/home/reinaldo/uepg/Algoritmos e Programação/aula_31_07_2013_strings/c/strings_busca_char.c",
+		"/home/reinaldo/uepg/Algoritmos e Programação/aula_31_07_2013_strings/c/strings_puts_gets.c",
+		"/home/reinaldo/uepg/Algoritmos e Programação/aula_31_07_2013_strings/c/strings_stdio.c",
+		"/home/reinaldo/uepg/Algoritmos e Programação/aula_31_07_2013_strings/c/strings_getchar.c",
+		"/home/reinaldo/trabalhos/efolha/public/js/files/functions.js",
+		"/home/reinaldo/trabalhos/efolha/application/forms/CmsLayout.php",
+		"/home/reinaldo/trabalhos/efolha/application/controllers/ErrorController.php",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/cms/index.phtml",
+		"/home/reinaldo/trabalhos/efolha/application/models/Cms.php",
+		"/home/reinaldo/trabalhos/efolha/public/cms_data/layouts/README.txt",
+		"/home/reinaldo/trabalhos/efolha/application/models/CmsLayout.php",
+		"/home/reinaldo/trabalhos/efolha/application/forms/CmsConfig.php",
+		"/home/reinaldo/trabalhos/efolha/application/models/Crud.php",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/error/error.phtml",
+		"/home/reinaldo/trabalhos/efolha/public/css/styles.css",
+		"/home/reinaldo/trabalhos/efolha/application/controllers/CmsController.php",
+		"/home/reinaldo/trabalhos/efolha/application/controllers/ChamadosController.php",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/cms/config.phtml",
+		"/home/reinaldo/trabalhos/efolha/.gitignore",
+		"/home/reinaldo/trabalhos/efolha/application/controllers/AnexosController.php",
+		"/home/reinaldo/trabalhos/efolha/application/forms/CmsLogo.php",
+		"/home/reinaldo/trabalhos/efolha/library/Aplicacao/ActionHelper/Plupload.php",
+		"/home/reinaldo/trabalhos/efolha/public/js/files/cms.js",
+		"/home/reinaldo/trabalhos/efolha/application/layouts/scripts/layout.phtml",
+		"/home/reinaldo/trabalhos/efolha/application/forms/Formdecorator.php",
+		"/home/reinaldo/trabalhos/efolha/application/controllers/CrudController.php",
+		"/home/reinaldo/trabalhos/efolha/application/configs/application.ini",
+		"/home/reinaldo/trabalhos/efolha/application/forms/Cms.php",
+		"/home/reinaldo/trabalhos/efolha/docs/script_banco_cms.sql",
+		"/home/reinaldo/trabalhos/efolha/application/layouts/scripts/error.phtml",
+		"/home/reinaldo/trabalhos/efolha/application/forms/CmsAnalytics.php",
+		"/home/reinaldo/trabalhos/efolha/application/forms/CmsTitulo.php",
+		"/home/reinaldo/trabalhos/efolha/application/forms/CmsMaps.php",
+		"/home/reinaldo/trabalhos/efolha/application/forms/CmsEmail.php",
+		"/home/reinaldo/trabalhos/efolha/application/forms/CmsUrl.php",
+		"/home/reinaldo/trabalhos/efolha/public/index.php",
+		"/home/reinaldo/trabalhos/efolha/library/Aplicacao/Acl/Setup.php",
+		"/home/reinaldo/trabalhos/efolha/application/forms/Relatorio.php",
+		"/home/reinaldo/trabalhos/efolha/public/js/files/relatorios.js",
+		"/home/reinaldo/trabalhos/efolha/application/forms/Recisao.php",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/index/gerente.phtml",
+		"/home/reinaldo/trabalhos/efolha/docs/index.html",
+		"/home/reinaldo/trabalhos/efolha/application/models/Log.php",
+		"/home/reinaldo/trabalhos/efolha/library/Zend/Log/Writer/Db.php",
+		"/home/reinaldo/trabalhos/efolha/library/Zend/Db/Adapter/Abstract.php",
+		"/home/reinaldo/trabalhos/efolha/library/Omissis/Db/Adapter/Mongodb.php",
+		"/home/reinaldo/trabalhos/efolha/application/Bootstrap.php",
+		"/home/reinaldo/trabalhos/efolha/application/controllers/AuthController.php",
+		"/home/reinaldo/trabalhos/efolha/library/Zend/Test/DbAdapter.php",
+		"/home/reinaldo/trabalhos/efolha/library/Zend/Db/Adapter/Pdo/Abstract.php",
+		"/home/reinaldo/trabalhos/efolha/library/Zend/Log/Writer/Abstract.php",
+		"/home/reinaldo/trabalhos/efolha/library/Zend/Db/Adapter/Pdo/Mysql.php",
+		"/home/reinaldo/trabalhos/efolha/library/Zend/Application/Bootstrap/BootstrapAbstract.php",
+		"/home/reinaldo/trabalhos/efolha/library/Zend/Application/Bootstrap/Bootstrap.php",
+		"/home/reinaldo/trabalhos/efolha/library/Zend/Controller/Plugin/ErrorHandler.php",
+		"/home/reinaldo/trabalhos/efolha/application/controllers/IndexController.php",
+		"/home/reinaldo/trabalhos/efolha/library/Aplicacao/MongoDb/CollectionAbstract.php",
+		"/home/reinaldo/trabalhos/efolha/application/models/Usuario.php",
+		"/home/reinaldo/trabalhos/efolha/node_modules/socket.io/index.js",
+		"/home/reinaldo/trabalhos/efolha/library/Zend/Acl.php",
+		"/home/reinaldo/trabalhos/efolha/library/Zend/Db/Table/Abstract.php",
+		"/home/reinaldo/trabalhos/efolha/library/Aplicacao/DbAdapter/MongoDb.php",
+		"/home/reinaldo/trabalhos/efolha/library/Zend/Db/Adapter/Mongodb.php",
+		"/home/reinaldo/trabalhos/efolha/library/Zend/Db/Adapter/Mysqli.php",
+		"/home/reinaldo/trabalhos/efolha/application/models/User.php",
+		"/home/reinaldo/trabalhos/efolha/application/forms/Ferias.php",
+		"/home/reinaldo/trabalhos/efolha/application/controllers/FeriasController.php",
+		"/home/reinaldo/trabalhos/efolha/library/Zend/Validate/NotEmpty.php",
+		"/home/reinaldo/trabalhos/efolha/node_modules/moment/moment.js",
+		"/home/reinaldo/trabalhos/efolha/library/Aplicacao/Validators/LessThanDate.php",
+		"/home/reinaldo/trabalhos/efolha/library/Zend/Validate/Callback.php",
+		"/home/reinaldo/trabalhos/efolha/public/js/files/ferias.js",
+		"/home/reinaldo/.config/sublime-text-2/Packages/EncodingHelper/EncodingHelper.sublime-settings",
+		"/home/reinaldo/.config/sublime-text-2/Packages/DetectSyntax/DetectSyntax.sublime-settings",
+		"/home/reinaldo/.config/sublime-text-2/Packages/User/JavaScript.sublime-settings",
+		"/home/reinaldo/trabalhos/efolha/application/models/Ferias.php",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/funcionario/search.phtml",
+		"/home/reinaldo/trabalhos/efolha/application/controllers/FuncionarioController.php",
+		"/home/reinaldo/trabalhos/efolha/application/models/Funcionario.php",
+		"/home/reinaldo/trabalhos/efolha/public/js/files/recisoes.js",
+		"/home/reinaldo/trabalhos/efolha/application/controllers/RecisaoController.php",
+		"/home/reinaldo/trabalhos/efolha/application/models/Recisao.php",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/recisao/index.phtml",
+		"/home/reinaldo/trabalhos/efolha/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/build/Release/.deps/Release/obj.target/bufferutil/src/bufferutil.o.d",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/boletos/recibosacado.phtml",
+		"/home/reinaldo/trabalhos/efolha/public/js/files/usuarios.js",
+		"/home/reinaldo/trabalhos/efolha/application/forms/Uf.php",
+		"/home/reinaldo/trabalhos/efolha/public/js/files/admissao.js",
+		"/home/reinaldo/trabalhos/efolha/public/js/plugins/forms/jquery.validationEngine-pt_br.js",
+		"/home/reinaldo/trabalhos/efolha/application/forms/Admissao.php",
+		"/home/reinaldo/trabalhos/efolha/application/forms/Funcionario.php",
+		"/home/reinaldo/trabalhos/efolha/docs/alteracoes_banco.sql",
+		"/home/reinaldo/trabalhos/efolha/public/js/files/folhas.js",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/partials/folhas/form-folhas.phtml",
+		"/home/reinaldo/trabalhos/efolha/application/controllers/FolhasController.php",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/partials/folhas/list-func.phtml",
+		"/home/reinaldo/trabalhos/efolha/application/forms/Os.php",
+		"/home/reinaldo/trabalhos/efolha/library/Zend/Form/Decorator/ViewHelper.php",
+		"/home/reinaldo/trabalhos/efolha/library/Zend/Form/Element.php",
+		"/home/reinaldo/trabalhos/efolha/library/Zend/Form/Element/Xhtml.php",
+		"/home/reinaldo/trabalhos/efolha/application/models/Auth.php",
+		"/home/reinaldo/trabalhos/efolha/library/Zend/Db/Table/Row.php",
+		"/home/reinaldo/trabalhos/efolha/library/Zend/Db/Table/Row/Abstract.php",
+		"/home/reinaldo/trabalhos/efolha/public/js/files/login.js",
+		"/home/reinaldo/trabalhos/efolha/public/js/plugins/forms/jquery.validationEngine.js",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/auth/login.phtml",
+		"/home/reinaldo/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/reinaldo/Desktop/funcionarios.sql_theirs",
+		"/home/reinaldo/Desktop/funcionarios.sql_ours",
+		"/home/reinaldo/Desktop/functions.js_ours",
+		"/home/reinaldo/Desktop/functions.js",
+		"/home/reinaldo/Desktop/functions.js_theirs",
+		"/home/reinaldo/trabalhos/efolha/application/models/Folhas.php",
+		"/home/reinaldo/trabalhos/efolha/application/models/Notificacoes.php",
+		"/home/reinaldo/trabalhos/efolha/application/models/OsAtividadesInteracoes.php",
+		"/home/reinaldo/trabalhos/efolha/public/css/plugins.css",
+		"/home/reinaldo/trabalhos/efolha/application/models/VwDigitacaoFolha.php",
+		"/home/reinaldo/trabalhos/efolha/application/models/VwFolhas.php",
+		"/home/reinaldo/trabalhos/efolha/application/forms/Folhas.php",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/folhas/index.phtml",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/partials/folhas/list-folhas.phtml",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/partials/folhas/list-eventos.phtml",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/partials/folhas/folhas-funcionarios.phtml",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/folhas/get-funcionarios.phtml",
+		"/home/reinaldo/trabalhos/efolha/public/css/ui_custom.css"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/home/reinaldo/trabalhos/efolha/application/forms",
+			"/home/reinaldo/trabalhos/efolha/application",
+			"/home/reinaldo/trabalhos/efolha/application/models",
+			"/home/reinaldo/trabalhos/efolha/public/js",
+			"/home/reinaldo/trabalhos/efolha/public/css",
+			"/home/reinaldo/trabalhos/efolha/public/js/files",
+			"/home/reinaldo/trabalhos/efolha/public/css",
+			"/home/reinaldo/trabalhos/efolha/public/js/files",
+			"/home/reinaldo/trabalhos/efolha/application/",
+			"/home/reinaldo/trabalhos/efolha/application/controllers/",
+			"/home/reinaldo/trabalhos/efolha/public/js/files",
+			"/home/reinaldo/trabalhos/efolha/public/css",
+			"/home/reinaldo/trabalhos/efolha/public/js/files",
+			"/home/reinaldo/trabalhos/efolha/application/controllers",
+			"/home/reinaldo/trabalhos/efolha/public/js",
+			"/home/reinaldo/trabalhos/efolha/application/models",
+			"/home/reinaldo/trabalhos/efolha/application/model",
+			"/home/reinaldo/trabalhos/efolha/application/controllers",
+			"/home/reinaldo/trabalhos/efolha/application/models",
+			"/home/reinaldo/trabalhos/finsys/public/js",
+			"/home/reinaldo/trabalhos/finsys/",
+			"/home/reinaldo/trabalhos/finsys/application",
+			"/home/reinaldo/trabalhos/finsys/",
+			"/home/reinaldo/trabalhos/finsys/module",
+			"/home/reinaldo/trabalhos/finsys/vendor/doctrine/",
+			"/home/reinaldo/trabalhos/finsys/module/FinsysAdmin/view/finsys-admin/index",
+			"/home/reinaldo/trabalhos/mbs/application",
+			"/home/reinaldo/trabalhos/mbs/application/forms",
+			"/home/reinaldo/trabalhos/mbs/public/scripts",
+			"/home/reinaldo/trabalhos/mbs/application/controllers",
+			"/home/reinaldo/trabalhos/mbs/application/forms",
+			"/home/reinaldo/trabalhos/mbs/library/Zend",
+			"/home/reinaldo/trabalhos/mbs/application",
+			"/home/reinaldo/trabalhos/mbs/library/Zend/View",
+			"/home/reinaldo/trabalhos/mbs/application/forms",
+			"/home/reinaldo/trabalhos/mbs/application/controllers",
+			"/home/reinaldo/trabalhos/mbs/application/forms",
+			"*Controller.php",
+			"*.phtml",
+			"*.js",
+			"*.php",
+			"*.phtml",
+			"*.php",
+			"*.js",
+			"",
+			"/mnt/www/mbs/public/stylesheets",
+			"*.phtml,/mnt/www/mbs/application/views/scripts",
+			"*.js,/mnt/www/mbs/application/views/scripts",
+			"*.js",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"hitespace(str[i - 1]))\n					conti",
+			"string",
+			"\\n",
+			"printf",
+			"system(\"clear\")",
+			"getsto",
+			"getIden",
+			"Config",
+			"tabs",
+			"	        \n",
+			"logo_uploader",
+			"p>",
+			"p",
+			"cms_",
+			"cms_config",
+			"{};\n",
+			"app.",
+			"app",
+			"\n    ",
+			" $",
+			"plupload",
+			"if",
+			"titulo",
+			"form",
+			"fieldset",
+			"formCmsConfigTitulo",
+			"private",
+			"value",
+			"url",
+			"Url",
+			"URL",
+			"Url",
+			"analytics",
+			"Analytics",
+			"logo",
+			"Logo",
+			"formCmsConfigTitulo",
+			"$config",
+			");\n",
+			"simulador",
+			"grid",
+			"analitcs",
+			"Analitcs",
+			"analitcs",
+			"URL",
+			"url",
+			"titulo",
+			"Maps",
+			"maps",
+			"titulo",
+			"data-callbac",
+			"data-callback",
+			"search_parse",
+			"search_",
+			"Relatorio",
+			"contentTabs",
+			"php echo",
+			"\n		",
+			"php echo",
+			"<?=",
+			"=",
+			"?>\n",
+			">\n",
+			"div",
+			"errorWrapper",
+			"pre",
+			"php echo",
+			"pre",
+			"errorconte",
+			"1",
+			"0",
+			"));\n",
+			"insert",
+			"Zend_Db_Adapter_Mongodb_Exception",
+			"Zend_Db_Adapter_Mongodb",
+			"Zend_Db_Adapter_Mongodb_Exception",
+			"Zend_Db_Adapter_Mongodb",
+			"insert",
+			"insert()",
+			"_container",
+			"$_container",
+			"$container",
+			"hasResource",
+			"has",
+			"data",
+			"is_string",
+			"self::$",
+			"$this->_connection",
+			"db",
+			"Db",
+			"db",
+			"_db",
+			"_connection",
+			"$_db",
+			"_db",
+			"execute",
+			"query(",
+			";\n		die(var_dump($this->_metadata));",
+			"_setup()",
+			"_setup",
+			"__setup",
+			"__construct",
+			"setupMetadata()",
+			"setupMetadata",
+			"describeTable",
+			"_setAdapter",
+			"coll",
+			"”",
+			"“",
+			"fim",
+			"inicio",
+			"inicio_ferias",
+			"termino_ferias",
+			"]\"",
+			"\"#formRecisao ",
+			"ui.",
+			"selectFun",
+			"none",
+			".none",
+			"selectFunc",
+			"modalBUsca",
+			"selectFunc",
+			"id_empresa",
+			"datepicker",
+			"data_admissao",
+			"data_adi",
+			"value",
+			"cpf"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"formCmsConfig",
+			"            \n",
+			"remover",
+			"')\n",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "c/100_caracteres.c",
+					"settings":
+					{
+						"buffer_size": 6369,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4581,
+								4581
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"encoding_helper_confidence": 0.99,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"function_name_status_row": -1,
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublime_auto_complete": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/C++/C.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3204.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"config.ph",
+				"application/views/scripts/cms/config.phtml"
+			],
+			[
+				"modelcru",
+				"application/models/Crud.php"
+			],
+			[
+				"cms",
+				"application/models/CmsLayout.php"
+			],
+			[
+				"cmscon",
+				"application/forms/CmsConfig.php"
+			],
+			[
+				"cru",
+				"application/controllers/CrudController.php"
+			],
+			[
+				"zendauth",
+				"library/Zend/Auth.php"
+			],
+			[
+				"error",
+				"application/controllers/ErrorController.php"
+			],
+			[
+				"errorconr",
+				"application/controllers/ErrorController.php"
+			],
+			[
+				"cmsindex",
+				"application/views/scripts/cms/index.phtml"
+			],
+			[
+				"cmscontro",
+				"application/controllers/CmsController.php"
+			],
+			[
+				"modelcms",
+				"application/models/Cms.php"
+			],
+			[
+				"functions",
+				"public/js/files/functions.js"
+			],
+			[
+				".giti",
+				".gitignore"
+			],
+			[
+				"function",
+				"public/js/files/functions.js"
+			],
+			[
+				"sty",
+				"public/css/styles.css"
+			],
+			[
+				"aplicacaopl",
+				"library/Aplicacao/ActionHelper/Plupload.php"
+			],
+			[
+				"cmsjs",
+				"public/js/files/cms.js"
+			],
+			[
+				"config",
+				"application/views/scripts/cms/config.phtml"
+			],
+			[
+				"layout",
+				"application/layouts/scripts/layout.phtml"
+			],
+			[
+				"anexo",
+				"application/controllers/AnexosController.php"
+			],
+			[
+				"chamadoscon",
+				"application/controllers/ChamadosController.php"
+			],
+			[
+				"cmslogo",
+				"application/forms/CmsLogo.php"
+			],
+			[
+				"application",
+				"application/configs/application.ini"
+			],
+			[
+				"layouscriptserror",
+				"application/layouts/scripts/error.phtml"
+			],
+			[
+				"crudcontr",
+				"application/controllers/CrudController.php"
+			],
+			[
+				"formde",
+				"application/forms/Formdecorator.php"
+			],
+			[
+				"cmsconfig",
+				"application/views/scripts/cms/config.phtml"
+			],
+			[
+				"styles",
+				"public/css/styles.css"
+			],
+			[
+				"cmstit",
+				"application/forms/CmsTitulo.php"
+			],
+			[
+				"modelcrud",
+				"application/models/Crud.php"
+			],
+			[
+				"index",
+				"public/index.php"
+			],
+			[
+				"config.phtml",
+				"application/views/scripts/cms/config.phtml"
+			],
+			[
+				"relatorios",
+				"public/js/files/relatorios.js"
+			],
+			[
+				"formd",
+				"application/forms/Formdecorator.php"
+			],
+			[
+				"indexgeren",
+				"application/views/scripts/index/gerente.phtml"
+			],
+			[
+				"modelslo",
+				"application/models/Log.php"
+			],
+			[
+				"errorcontrole",
+				"application/controllers/ErrorController.php"
+			],
+			[
+				"appli",
+				"application/configs/application.ini"
+			],
+			[
+				"zenddbadapter",
+				"library/Zend/Db/Adapter/Abstract.php"
+			],
+			[
+				"logdb",
+				"library/Zend/Log/Writer/Db.php"
+			],
+			[
+				"b",
+				"application/Bootstrap.php"
+			],
+			[
+				"errorcon",
+				"application/controllers/ErrorController.php"
+			],
+			[
+				"auth",
+				"application/controllers/AuthController.php"
+			],
+			[
+				"modellog",
+				"application/models/Log.php"
+			],
+			[
+				"ini",
+				"application/configs/application.ini"
+			],
+			[
+				"adapterabstract",
+				"library/Zend/Db/Adapter/Abstract.php"
+			],
+			[
+				"pdoabs",
+				"library/Zend/Db/Adapter/Pdo/Abstract.php"
+			],
+			[
+				"pdomysql",
+				"library/Zend/Db/Adapter/Pdo/Mysql.php"
+			],
+			[
+				"boot",
+				"application/Bootstrap.php"
+			],
+			[
+				"zendlogwritera",
+				"library/Zend/Log/Writer/Abstract.php"
+			],
+			[
+				"zendlogwriterdb",
+				"library/Zend/Log/Writer/Db.php"
+			],
+			[
+				"bootstrapa",
+				"library/Zend/Application/Bootstrap/BootstrapAbstract.php"
+			],
+			[
+				"bootstrap",
+				"library/Zend/Application/Bootstrap/Bootstrap.php"
+			],
+			[
+				"errorhan",
+				"library/Zend/Controller/Plugin/ErrorHandler.php"
+			],
+			[
+				"inde",
+				"application/controllers/IndexController.php"
+			],
+			[
+				"acl",
+				"library/Zend/Acl.php"
+			],
+			[
+				"modelusuario",
+				"application/models/Usuario.php"
+			],
+			[
+				"zenddbtable",
+				"library/Zend/Db/Table/Abstract.php"
+			],
+			[
+				"mysql",
+				"library/Zend/Db/Adapter/Mysqli.php"
+			],
+			[
+				"zenddbtableabs",
+				"library/Zend/Db/Table/Abstract.php"
+			],
+			[
+				"zenddbadaptermon",
+				"library/Zend/Db/Adapter/Mongodb.php"
+			],
+			[
+				"modeluser",
+				"application/models/User.php"
+			],
+			[
+				"index.php",
+				"public/index.php"
+			],
+			[
+				"ferias",
+				"application/forms/Ferias.php"
+			],
+			[
+				"recisao",
+				"application/forms/Recisao.php"
+			],
+			[
+				"zendvalidatcall",
+				"library/Zend/Validate/Callback.php"
+			],
+			[
+				"zendvalidatenote",
+				"library/Zend/Validate/NotEmpty.php"
+			],
+			[
+				"momen",
+				"node_modules/moment/moment.js"
+			],
+			[
+				"formferias",
+				"application/forms/Ferias.php"
+			],
+			[
+				"ferias.js",
+				"public/js/files/ferias.js"
+			],
+			[
+				"modelferias",
+				"application/models/Ferias.php"
+			],
+			[
+				"feriascon",
+				"application/controllers/FeriasController.php"
+			],
+			[
+				"crudcon",
+				"application/controllers/CrudController.php"
+			],
+			[
+				"modelrecisao",
+				"application/models/Recisao.php"
+			],
+			[
+				"recisaocontroll",
+				"application/controllers/RecisaoController.php"
+			],
+			[
+				"reci",
+				"public/js/files/recisoes.js"
+			],
+			[
+				"modelfun",
+				"application/models/Funcionario.php"
+			],
+			[
+				"crudc",
+				"application/controllers/CrudController.php"
+			],
+			[
+				"search",
+				"application/views/scripts/funcionario/search.phtml"
+			],
+			[
+				"funciona",
+				"application/controllers/FuncionarioController.php"
+			],
+			[
+				"funcionarioser",
+				"application/views/scripts/funcionario/search.phtml"
+			],
+			[
+				"layou",
+				"application/layouts/scripts/layout.phtml"
+			],
+			[
+				"recisoes",
+				"public/js/files/recisoes.js"
+			],
+			[
+				"rescisao.phtml",
+				"application/views/scripts/boletos/recibosacado.phtml"
+			],
+			[
+				"rescisao",
+				"application/controllers/RecisaoController.php"
+			],
+			[
+				"usuario.js",
+				"public/js/files/usuarios.js"
+			],
+			[
+				"applicationformuf",
+				"application/forms/Uf.php"
+			],
+			[
+				"amissao",
+				"public/js/files/admissao.js"
+			],
+			[
+				"validationen",
+				"public/js/plugins/forms/jquery.validationEngine-pt_br.js"
+			],
+			[
+				"formfunc",
+				"application/forms/Funcionario.php"
+			],
+			[
+				"formadmissa",
+				"application/forms/Admissao.php"
+			],
+			[
+				"folhas.js",
+				"public/js/files/folhas.js"
+			],
+			[
+				"form-",
+				"application/views/scripts/partials/folhas/form-folhas.phtml"
+			],
+			[
+				"",
+				"application/views/scripts/partials/folhas/list-func.phtml"
+			],
+			[
+				"folhasc",
+				"application/controllers/FolhasController.php"
+			],
+			[
+				"zendviewhelper",
+				"library/Zend/Form/Decorator/ViewHelper.php"
+			],
+			[
+				"zendelement",
+				"library/Zend/Form/Element.php"
+			],
+			[
+				"zendformelement",
+				"library/Zend/Form/Element.php"
+			],
+			[
+				"zendformelementx",
+				"library/Zend/Form/Element/Xhtml.php"
+			],
+			[
+				"list-",
+				"application/views/scripts/partials/folhas/list-func.phtml"
+			],
+			[
+				"folhas",
+				"public/js/files/folhas.js"
+			],
+			[
+				"en-",
+				"public/js/plugins/forms/jquery.validationEngine-pt_br.js"
+			],
+			[
+				"formos",
+				"application/forms/Os.php"
+			],
+			[
+				"boost",
+				"application/Bootstrap.php"
+			],
+			[
+				"zenddbtablerowa",
+				"library/Zend/Db/Table/Row/Abstract.php"
+			],
+			[
+				"zenddbtablerow",
+				"library/Zend/Db/Table/Row.php"
+			],
+			[
+				"lo",
+				"public/js/files/login.js"
+			],
+			[
+				"login.js",
+				"public/js/files/login.js"
+			],
+			[
+				"logi",
+				"application/views/scripts/auth/login.phtml"
+			],
+			[
+				"osin",
+				"application/models/OsAtividadesInteracoes.php"
+			],
+			[
+				"modelin",
+				"application/models/OsAtividadesInteracoes.php"
+			],
+			[
+				"modelnot",
+				"application/models/Notificacoes.php"
+			],
+			[
+				"modelfolhas",
+				"application/models/Folhas.php"
+			],
+			[
+				"modelfola",
+				"application/models/Folhas.php"
+			],
+			[
+				"folhascon",
+				"application/controllers/FolhasController.php"
+			],
+			[
+				"plugins",
+				"public/css/plugins.css"
+			],
+			[
+				"styl",
+				"public/css/styles.css"
+			],
+			[
+				"funtion",
+				"public/js/files/functions.js"
+			],
+			[
+				"ui_c",
+				"public/css/ui_custom.css"
+			],
+			[
+				"form",
+				"library/Zend/Form.php"
+			],
+			[
+				"zendformelementtex",
+				"library/Zend/Form/Element/Text.php"
+			],
+			[
+				"formfolas",
+				"application/views/scripts/partials/folhas/form-folhas.phtml"
+			],
+			[
+				"get-fun",
+				"application/views/scripts/folhas/get-funcionarios.phtml"
+			],
+			[
+				"funct",
+				"public/js/files/functions.js"
+			],
+			[
+				"modelos",
+				"application/models/Os.php"
+			],
+			[
+				"listagem",
+				"application/views/scripts/partials/chamados/listagem-usuario.phtml"
+			],
+			[
+				"chamadosindex",
+				"application/views/scripts/chamados/index.phtml"
+			],
+			[
+				"folhasinde",
+				"application/views/scripts/folhas/index.phtml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 309.0,
+	"status_bar_visible": true
+}
